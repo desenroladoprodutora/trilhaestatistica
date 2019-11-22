@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="GyqTByzaQuPNH" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:langstring>Trilha Matemática_V1</lom:langstring>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicallearningtime>
+<lom:datetime>01:00:00</lom:datetime>
+</lom:typicallearningtime>
+</lom:educational>
+</lom:lom>
+</metadata>
+<organizations default="GyqTByzaQuPNH_organization">
+<organization identifier="GyqTByzaQuPNH_organization">
+<title>Trilha Matemática_V1</title>
+<item identifier="1DEAC875-E435-4D51-A2CA-3551F8E6D514" identifierref="resource">
+<title>Trilha Matemática</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.png"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.png"/>
+<file href="res/data/slide2.js"/>
+<file href="res/data/slide2.css"/>
+<file href="res/data/thmb3.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/fonts/fnt3.woff"/>
+<file href="res/data/quiz1/images/img-67b58ad916405640804008d77e826e75e10b5c17.png"/>
+<file href="res/data/quiz1/images/img-89aa0ddd6fa6ab4ce38b1a8306f78c994e0daca8.png"/>
+<file href="res/data/quiz1/images/img-9a98484624c3b0435e0e2796b769ba7327d8e3af.png"/>
+<file href="res/data/quiz1/images/img-de8dc0129a552eeae23b742a515777e8f1774134.png"/>
+<file href="res/data/quiz1/images/img-dea4f05308ca129c084e5038ec0198501175bdb3.png"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb4.png"/>
+<file href="res/data/slide4.js"/>
+<file href="res/data/slide4.css"/>
+<file href="res/data/thmb5.png"/>
+<file href="res/data/quiz2.js"/>
+<file href="res/data/quiz2/fonts/fnt0.woff"/>
+<file href="res/data/quiz2/fonts/fnt1.woff"/>
+<file href="res/data/quiz2/fonts/fnt2.woff"/>
+<file href="res/data/quiz2/fonts/fnt3.woff"/>
+<file href="res/data/quiz2/fonts/fnt4.woff"/>
+<file href="res/data/quiz2/fonts/fnt5.woff"/>
+<file href="res/data/quiz2/images/img-5926767e18d6291e2255d3945641b19a2f16e85a.png"/>
+<file href="res/data/quiz2/images/img-69b48c3ca0253cc90d573c694ad5b34d2ac4f8fa.png"/>
+<file href="res/data/quiz2/images/img-7698c9d7e87a08af760bcf8fd2701552de1000fb.png"/>
+<file href="res/data/quiz2/images/img-84c57492c16c1e0dda9c32055b34ca6d1a00e587.png"/>
+<file href="res/data/quiz2/images/img-9a98484624c3b0435e0e2796b769ba7327d8e3af.png"/>
+<file href="res/data/quiz2/images/img-bc119d84cfd7d080d5db9429727df66479be1f43.png"/>
+<file href="res/data/quiz2/images/img-d71319efdc21d6a359f71675376b34d47bb19cec.PNG"/>
+<file href="res/data/quiz2/images/img-de8dc0129a552eeae23b742a515777e8f1774134.png"/>
+<file href="res/data/quiz2/images/img-e3bd0eae9a03ff6c245ecc35cbd7283091fb14a2.png"/>
+<file href="res/data/quiz2/images/quiz_bg_1.png"/>
+<file href="res/data/thmb6.png"/>
+<file href="res/data/slide6.js"/>
+<file href="res/data/slide6.css"/>
+<file href="res/data/thmb7.png"/>
+<file href="res/data/quiz3.js"/>
+<file href="res/data/quiz3/fonts/fnt0.woff"/>
+<file href="res/data/quiz3/fonts/fnt1.woff"/>
+<file href="res/data/quiz3/fonts/fnt2.woff"/>
+<file href="res/data/quiz3/fonts/fnt3.woff"/>
+<file href="res/data/quiz3/fonts/fnt4.woff"/>
+<file href="res/data/quiz3/images/img-2a93a69612e9d08b791b72681f374ca20a81f026.png"/>
+<file href="res/data/quiz3/images/img-69b48c3ca0253cc90d573c694ad5b34d2ac4f8fa.png"/>
+<file href="res/data/quiz3/images/img-6d0a5de3130ae0d1320198dad1f5893056201a35.PNG"/>
+<file href="res/data/quiz3/images/img-8920b7624d4b405e04eea45a187ac0dd54014dbe.PNG"/>
+<file href="res/data/quiz3/images/img-9a98484624c3b0435e0e2796b769ba7327d8e3af.png"/>
+<file href="res/data/quiz3/images/img-bdb036d00fd32c8792461b80b75c9a76a9d5e5ee.PNG"/>
+<file href="res/data/quiz3/images/img-de8dc0129a552eeae23b742a515777e8f1774134.png"/>
+<file href="res/data/quiz3/images/quiz_bg_0.png"/>
+<file href="res/data/thmb8.png"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/thmb9.png"/>
+<file href="res/data/quiz4.js"/>
+<file href="res/data/quiz4/fonts/fnt0.woff"/>
+<file href="res/data/quiz4/fonts/fnt1.woff"/>
+<file href="res/data/quiz4/fonts/fnt2.woff"/>
+<file href="res/data/quiz4/fonts/fnt3.woff"/>
+<file href="res/data/quiz4/images/img-9a98484624c3b0435e0e2796b769ba7327d8e3af.png"/>
+<file href="res/data/quiz4/images/img-c1ebe9e2a6880364659666448aadbd159d45f612.png"/>
+<file href="res/data/quiz4/images/img-de8dc0129a552eeae23b742a515777e8f1774134.png"/>
+<file href="res/data/quiz4/images/quiz_bg_0.png"/>
+<file href="res/data/thmb10.png"/>
+<file href="res/data/slide10.js"/>
+<file href="res/data/slide10.css"/>
+<file href="res/data/thmb11.png"/>
+<file href="res/data/quiz5.js"/>
+<file href="res/data/quiz5/fonts/fnt0.woff"/>
+<file href="res/data/quiz5/fonts/fnt1.woff"/>
+<file href="res/data/quiz5/fonts/fnt2.woff"/>
+<file href="res/data/quiz5/fonts/fnt3.woff"/>
+<file href="res/data/quiz5/fonts/fnt4.woff"/>
+<file href="res/data/quiz5/fonts/fnt5.woff"/>
+<file href="res/data/quiz5/images/166b-973b-4689-d094.png"/>
+<file href="res/data/quiz5/images/f7b1-f226-1651-6be0.png"/>
+<file href="res/data/quiz5/images/img-0dd36889517df1cc4d9ef93b66a1b4c77f09ef86.png"/>
+<file href="res/data/quiz5/images/img-1a38674020fdd655c2bf625ddfaf909676a9c8f1.png"/>
+<file href="res/data/quiz5/images/img-1d64d197757918075aab5c55e9b6b08dfad115ae.png"/>
+<file href="res/data/quiz5/images/img-3c4b6543757d2fa1ca789a81fbc7c11a3a118d67.png"/>
+<file href="res/data/quiz5/images/img-78e17c2225eee5585b1b0e5202ca90eeddc07168.png"/>
+<file href="res/data/quiz5/images/img-9a98484624c3b0435e0e2796b769ba7327d8e3af.png"/>
+<file href="res/data/quiz5/images/img-a82bc0c51ba8dcf9c0e2c668f60b1a35bd482e9d.png"/>
+<file href="res/data/quiz5/images/img-abfdfb4e825e323748552bc75c61589c6021a081.png"/>
+<file href="res/data/quiz5/images/img-b6e94b947564306dbc654af631afc623e61ad353.png"/>
+<file href="res/data/quiz5/images/img-c1ebe9e2a6880364659666448aadbd159d45f612.png"/>
+<file href="res/data/quiz5/images/img-c34e0a1a854b524b3bd4c7bd4d9c3564bddb9c71.png"/>
+<file href="res/data/quiz5/images/img-de8dc0129a552eeae23b742a515777e8f1774134.png"/>
+<file href="res/data/quiz5/images/img-e0734a189f909a7b9eebebf6a97c5c2aebc48c3a.png"/>
+<file href="res/data/quiz5/images/quiz_bg_0.png"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt10.woff"/>
+<file href="res/data/fnt11.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/fnt8.woff"/>
+<file href="res/data/fnt9.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.png"/>
+<file href="res/data/img8.png"/>
+<file href="res/data/img9.png"/>
+</resource>
+</resources>
+</manifest>
